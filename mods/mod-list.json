@@ -1,0 +1,106 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "AfraidOfTheDark",
+      "enabled": true
+    },
+    
+    {
+      "name": "Automatic_Train_Painter",
+      "enabled": true
+    },
+    
+    {
+      "name": "AutoTrash",
+      "enabled": true
+    },
+    
+    {
+      "name": "BotStart",
+      "enabled": true
+    },
+    
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    
+    {
+      "name": "Fill4Me",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "FNEI",
+      "enabled": true
+    },
+    
+    {
+      "name": "helmod",
+      "enabled": true
+    },
+    
+    {
+      "name": "mining-patch-planner",
+      "enabled": true
+    },
+    
+    {
+      "name": "PipeVisualizer",
+      "enabled": true
+    },
+    
+    {
+      "name": "power-grid-comb",
+      "enabled": true
+    },
+    
+    {
+      "name": "qol_research",
+      "enabled": true
+    },
+    
+    {
+      "name": "RateCalculator",
+      "enabled": true
+    },
+    
+    {
+      "name": "sonaxaton-research-queue",
+      "enabled": true
+    },
+    
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    
+    {
+      "name": "Tapeline",
+      "enabled": true
+    },
+    
+    {
+      "name": "Todo-List",
+      "enabled": true
+    },
+    
+    {
+      "name": "YARM",
+      "enabled": true
+    }
+  ]
+}
